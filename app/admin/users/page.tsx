@@ -29,6 +29,8 @@ export default function UserManagementPage() {
               <th className="p-4 font-semibold">Role & Scope</th>
               <th className="p-4 font-semibold">Security (2FA)</th>
               <th className="p-4 font-semibold">Status</th>
+
+
               <th className="p-4 font-semibold text-right">Actions</th>
             </tr>
           </thead>
